@@ -5,7 +5,7 @@
 * **[Typescript](https://www.typescriptlang.org/)** (4.x)
 * **[Hot Module Replacement (HMR)](https://webpack.js.org/concepts/hot-module-replacement/)** + [Fast Refresh](https://github.com/pmmmwh/react-refresh-webpack-plugin)
 * Image support
-* React Router Dom 6
+* React Router Dom 6 
 * Redux (Ducks)
 * [SASS](http://sass-lang.com/) and [Styled Components](https://styled-components.com) support
 * Production build script
