@@ -7,7 +7,7 @@
 * Image support
 * React Router Dom 6
 * Redux (Ducks)
-* [SASS](http://sass-lang.com/) support
+* [SASS](http://sass-lang.com/) and [Styled Components](https://styled-components.com) support
 * Production build script
 * Code linting ([ESLint](https://github.com/eslint/eslint)) and formatting ([Prettier](https://github.com/prettier/prettier))
 * Test frameworks ([Jest](https://facebook.github.io/jest/) + [React Testing Library](https://testing-library.com/docs/react-testing-library/intro))
