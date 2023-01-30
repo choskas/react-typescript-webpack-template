@@ -7,6 +7,9 @@ module.exports = {
   resolve: {
     extensions: [".js", ".jsx", ".ts", ".tsx"],
   },
+  devServer: {
+    open: true
+  },
   context: resolve(__dirname, "../../src"),
   module: {
     rules: [

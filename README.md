@@ -1,11 +1,12 @@
-# React Webpack Typescript Starter
-> Minimal starter with hot module replacement (HMR) for rapid development.
+# React Typescript Webpack
 
 * **[React](https://facebook.github.io/react/)** (18.x)
 * **[Webpack](https://webpack.js.org/)** (5.x)
 * **[Typescript](https://www.typescriptlang.org/)** (4.x)
 * **[Hot Module Replacement (HMR)](https://webpack.js.org/concepts/hot-module-replacement/)** + [Fast Refresh](https://github.com/pmmmwh/react-refresh-webpack-plugin)
 * Image support
+* React Router Dom 6
+* Redux (Ducks)
 * [SASS](http://sass-lang.com/) support
 * Production build script
 * Code linting ([ESLint](https://github.com/eslint/eslint)) and formatting ([Prettier](https://github.com/prettier/prettier))
@@ -46,7 +47,4 @@ Command | Description
 
 **Note**: replace `yarn` with `npm` in `package.json` if you use npm.
 
-## See also
-* [Create React App](https://github.com/facebook/create-react-app)
-* [Astro](https://astro.build/)
-* [Vite](https://vitejs.dev/)
+
